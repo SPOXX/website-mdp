@@ -16,6 +16,21 @@
         <priority>0.5</priority>
     </url>
     <url>
+        <loc>https://www.matchday.pro/terms-and-conditions</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.matchday.pro/privacy-policy</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.matchday.pro/contest-rules</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://www.matchday.pro/contact</loc>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
