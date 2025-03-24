@@ -1804,3 +1804,15 @@ textarea.w-select {
   top: 0;
   left: 0;
 }
+.c-footer_social-wrap img {
+  display: inline;
+  margin-bottom: 16px;
+}
+.c-footer_responsible-gambling {
+  height: 50%;
+  width: 50%;
+}
+.c-footer_18-plus img {
+  width: 64px;
+  height: 64px;
+}
